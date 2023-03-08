@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "the telegram bot for me written in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "anosirjonov",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21",
+    "telegraf": "^4.12.1"
+  }
+}

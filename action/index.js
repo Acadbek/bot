@@ -1,0 +1,5 @@
+require('./start')
+require('./help')
+require('./inline')
+require('./photo')
+require('./echo')
